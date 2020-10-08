@@ -1,0 +1,80 @@
+.dropdown-divider {
+    height: 70PX;
+    margin: 0.5rem 0;
+    overflow: hidden;
+    border-top: 1px solid #e9ecef;
+    margin-bottom: 20px;
+    text-align: center;
+    
+  }
+
+
+
+.d-flex {
+    display: -ms-flexbox !important;
+    display: flex !important;
+   
+
+  }
+
+  .btn-sm, .btn-group-sm > .btn {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    border-radius: 0.2rem;
+    text-align: center;
+
+  }
+  p{
+      display: inline;
+  }
+  
+  .bt1 {
+    background-color:#6ebdf7; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding-left: 40px;
+    
+    
+  }
+  .btn-lg, .btn-group-lg > .btn {
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+ 
+    
+  }
+  
+.bt1{
+    width: 200px;
+
+
+}
+
+.parag {
+ color:#0FB9F2 ;
+ padding-left: 100px;
+ padding-top: 100px;
+}
+
+.embed-responsive .embed-responsive-item,
+.embed-responsive iframe,
+.embed-responsive embed,
+.embed-responsive object,
+.embed-responsive video {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 200px;
+  height: 200px;
+  border: 0;
+  display: grid;
+  
+}
